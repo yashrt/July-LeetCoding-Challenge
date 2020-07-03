@@ -12,7 +12,7 @@ public:
             }
             res[0] = 0;
             res[7] = 0;
-            cells = res;;
+            cells = res;
         }
         return res;
     }
