@@ -17,7 +17,7 @@ Problem Description :
 ![Day-03b Problem](../assets/Day-03b.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-03.cpp)
 
-## Day-04 [Ugly Number II]https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)
+## Day-04 [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)
 Problem Description :
 ![Day-04 Problem](../assets/Day-04.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-04.cpp)
