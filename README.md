@@ -31,3 +31,8 @@ Problem Description :
 Problem Description :
 ![Day-06 Problem](../assets/Day-06.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-06.cpp)
+
+## Day-07 [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)
+Problem Description :
+![Day-07 Problem](../assets/Day-07.png?raw=true)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-07.cpp)
