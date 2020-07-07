@@ -26,3 +26,8 @@ Problem Description :
 Problem Description :
 ![Day-05 Problem](../assets/Day-05.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-05.cpp)
+
+## Day-06 [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)
+Problem Description :
+![Day-06 Problem](../assets/Day-06.png?raw=true)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-06.cpp)
