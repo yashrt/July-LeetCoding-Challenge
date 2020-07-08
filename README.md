@@ -36,3 +36,8 @@ Problem Description :
 Problem Description :
 ![Day-07 Problem](../assets/Day-07.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-07.cpp)
+
+## Day-08 [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)
+Problem Description :
+![Day-08 Problem](../assets/Day-07.png?raw=true)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-08.cpp)
