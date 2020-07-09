@@ -39,5 +39,11 @@ Problem Description :
 
 ## Day-08 [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)
 Problem Description :
-![Day-08 Problem](../assets/Day-07.png?raw=true)
+![Day-08 Problem](../assets/Day-08.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-08.cpp)
+
+## Day-09 [Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)
+Problem Description :
+![Day-09a Problem](../assets/Day-09a.png?raw=true)
+![Day-09b Problem](../assets/Day-09b.png?raw=true)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-09.cpp)
