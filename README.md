@@ -47,3 +47,8 @@ Problem Description :
 ![Day-09a Problem](../assets/Day-09a.png?raw=true)
 ![Day-09b Problem](../assets/Day-09b.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-09.cpp)
+
+## Day-10 [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-10.cpp)
