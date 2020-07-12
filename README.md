@@ -57,3 +57,9 @@ Problem Description :
 Problem Description :
 ![Day-11 Problem](../assets/Day-11.png?raw=true)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-11.cpp)
+
+
+## Day-12 [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-12.cpp
