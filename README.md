@@ -63,3 +63,8 @@ Problem Description :
 Problem Description :
 
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-12.cpp)
+
+## Day-13 [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-13.cpp)
