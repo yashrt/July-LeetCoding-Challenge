@@ -93,3 +93,8 @@ Problem Description :
 Problem Description :
 
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-18.cpp)
+
+## Day-19 [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-19.cpp)
