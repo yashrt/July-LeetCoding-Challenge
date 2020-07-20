@@ -98,3 +98,8 @@ Problem Description :
 Problem Description :
 
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-19.cpp)
+
+## Day-20 [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-20.cpp)
