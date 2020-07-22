@@ -108,3 +108,8 @@ Problem Description :
 Problem Description :
 
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-21.cpp)
+
+## Day-22 [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-22.cpp)
