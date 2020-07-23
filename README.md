@@ -113,3 +113,8 @@ Problem Description :
 Problem Description :
 
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-22.cpp)
+
+## Day-23 [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
+Problem Description :
+
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-23.cpp)
